@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Test.Fullscreen"
+        parent="Theme.Test">
+        <!--item name="android:actionBarStyle">@style/Widget.Theme.Test.ActionBar.Fullscreen</item-->
+        <item name="android:windowLayoutInDisplayCutoutMode"> shortEdges <!-- default, shortEdges, or never --> </item>
+
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Neology</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dummy_content">Dummy\n</string>
+    <string name="dummy_button">Dummy</string>
+
+    <string name="prompt_email">User name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log-in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_splash" />
+    <string name="title_login">Login</string>
+    <string name="title_detail">Detalle</string>
+    <string name="action_settings">Log-out</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="login">(log in)</string>
+    <string name="logout">(log out)</string>
+</resources>
